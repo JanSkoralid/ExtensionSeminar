@@ -1,7 +1,7 @@
 {
   "id": "afa4432f-5d52-4bfa-990c-f482d0a4fb8c",
   "name": "SD Seminar",
-  "publisher": "Default publisher",
+  "publisher": "P/F Formula",
   "brief": "",
   "description": "",
   "version": "1.0.0.0",
@@ -14,10 +14,13 @@
   "capabilities": [],
   "dependencies": [],
   "screenshots": [],
+  "features": "TranslationFile",
+  "showMyCode": true,
+  "target": "Internal",
   "platform": "11.0.0.0",
   "application": "11.0.0.0",
   "idRange": {
-    "from": 50100,
-    "to": 50149
+    "from": 123456700,
+    "to": 123456799
   }
 }
